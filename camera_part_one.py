@@ -1,3 +1,5 @@
+"""used both contour application and converting to different color schemes application"""
+
 import numpy as np
 import cv2
 

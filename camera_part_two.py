@@ -1,3 +1,5 @@
+"""used Kmeans and dominant color tutorial"""
+
 import numpy as np
 import cv2
 from sklearn.cluster import KMeans
